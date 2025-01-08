@@ -50,3 +50,5 @@
 ◆ 군집알고리즘.ipynb
 <br/>
 ◆ k-평균_k_means.ipynb
+<br/>
+◆ 주성분분석.ipynb

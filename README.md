@@ -52,3 +52,8 @@
 ◆ k-평균_k_means.ipynb
 <br/>
 ◆ 주성분분석.ipynb
+<br/><br/>
+<h2>2025.01.09</h2>
+<br/>
+◆ 인공신경망.ipynb
+<br/>
